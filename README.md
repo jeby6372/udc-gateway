@@ -1,2 +1,2 @@
 # udc-gateway
-Universal Data Collector REST gateway
+Universal Data Collector IOT REST gateway
